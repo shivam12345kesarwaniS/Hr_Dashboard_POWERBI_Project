@@ -18,5 +18,6 @@ key insights from the visualization:
 6. Most employee terminations are voluntary in nature.
    
 ![Screenshot (1714)](https://github.com/shivam12345kesarwaniS/Hr_Dashboard_POWERBI_Project/assets/138551775/4716bbc1-4789-4693-ad8f-82ae188666e4)
-![Uploading Screenshot (1715).png…]()
+![Screenshot (1715)](https://github.com/shivam12345kesarwaniS/Hr_Dashboard_POWERBI_Project/assets/138551775/5f2e291f-73aa-4a9a-b9a7-4a01467aaff8)
+
 
