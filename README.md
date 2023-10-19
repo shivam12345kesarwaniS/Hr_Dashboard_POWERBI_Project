@@ -16,3 +16,7 @@ key insights from the visualization:
 5. The primary reason for employee terminations is another job offer.
 
 6. Most employee terminations are voluntary in nature.
+   
+![Screenshot (1714)](https://github.com/shivam12345kesarwaniS/Hr_Dashboard_POWERBI_Project/assets/138551775/4716bbc1-4789-4693-ad8f-82ae188666e4)
+![Uploading Screenshot (1715).png…]()
+
